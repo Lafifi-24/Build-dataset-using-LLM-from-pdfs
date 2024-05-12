@@ -1,0 +1,13 @@
+pandas
+openpyxl
+langchain
+sentence_transformers 
+huggingface-hub 
+transformers 
+chromadb 
+ipywidgets
+langchain 
+langchain_community 
+langchain_chroma 
+langchain_openai
+dotenv
